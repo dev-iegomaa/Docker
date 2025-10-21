@@ -87,6 +87,7 @@ docker run busybox sleep infinity  # Sleep forever
 ## 🔹 Building Images
 ```bash
 docker build -t my-app .  # Build image from Dockerfile in current folder
+-t = --tag  # Set image name
 docker run my-app         # Run container from your image
 ```
 ## 🔹 Volumes (Data Persistence)
