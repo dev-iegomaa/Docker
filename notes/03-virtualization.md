@@ -32,7 +32,7 @@ It sits between the **hardware** and the **virtual machines**.
 
 Both **containerization** and **virtualization** are technologies that allow running multiple applications on a single physical machine, but they work in different ways.
 
-![Containers vs VMs](./images/containerization-virtualization.png)
+![Containers vs VMs](./../images/containerization-virtualization.png)
 
 | Feature             | Containerization                                                                                              | Virtualization                                                                                                   |
 | ------------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
