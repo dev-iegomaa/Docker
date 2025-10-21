@@ -18,3 +18,28 @@ Docker is an open source standalone application which works as an engine used to
 - Simply we can say Docker is a container management service.
 
 ![Docker Container Diagram](./../images/docker-container.avif)
+
+## 🧩 Installation Check
+
+After installing Docker, check if it works:
+
+```bash
+docker --version OR docker -v
+docker compose version
+```
+
+If you get something like this:
+
+```
+Docker version 20.10.17, build 100c701
+```
+
+Then, Docker is installed correctly.
+
+If you get something like this:
+
+```
+docker: command not found
+```
+
+Then, Docker is not installed.
